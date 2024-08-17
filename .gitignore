@@ -1,3 +1,6 @@
+
+.vscode-ctags
+
 # Prerequisites
 *.d
 
@@ -6,6 +9,7 @@
 *.ko
 *.obj
 *.elf
+*.bin
 
 # Linker output
 *.ilk
